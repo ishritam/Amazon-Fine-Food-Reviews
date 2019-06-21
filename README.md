@@ -23,3 +23,14 @@ Attribute Information:
 8) Time - timestamp for the review
 9) Summary - brief summary of the review
 10)Text - text of the review
+
+
+Objective: Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
+
+1) TSNE
+2) KNN
+3) Naive Bayes
+4) Logistic Regression
+5) Support Vector Machine
+6) Decision Tree
+7) Random Forest and XGBoost
