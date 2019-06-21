@@ -2,6 +2,7 @@
 Amazon Fine Food Reviews Analysis
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
+![68747470733a2f2f692e696d6775722e636f6d2f6241704235544d2e6a7067](https://user-images.githubusercontent.com/40149802/59947690-8d177300-948b-11e9-8960-752c2e7209c6.jpg)
 
 
 The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
